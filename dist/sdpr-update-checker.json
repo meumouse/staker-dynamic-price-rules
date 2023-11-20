@@ -1,0 +1,23 @@
+{
+	"name" : "Staker - Regras de precificação dinâmicas",
+	"slug" : "staker-dynamic-price-rules",
+	"author" : "<a href='https://meumouse.com'>MeuMouse.com</a>",
+	"author_profile" : "https://profiles.wordpress.org/meumouse",
+	"version" : "1.0.0",
+	"download_url" : "https://github.com/meumouse/staker-dynamic-price-rules/raw/main/dist/staker-dynamic-price-rules.zip",
+	"requires" : "5.6",
+	"tested" : "6.4",
+	"requires_php" : "7.2",
+	"added" : "2023-11-20 12:00:00",
+	"last_updated" : "2023-11-20 12:00:00",
+	"homepage" : "",
+	"sections" : {
+		"description" : "Transforme sua loja WooCommerce com descontos personalizados, orçamentos e configurações avançadas. Crie uma experiência de compra única!",
+		"installation" : "",
+		"changelog" : ""
+	},
+	"banners" : {
+		"low" : "",
+		"high" : ""
+	}
+}
